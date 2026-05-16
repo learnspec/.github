@@ -11,10 +11,12 @@ LearnSpec is a suite of complementary, Markdown-based formats that together cove
 | **[LearnMD](https://github.com/learnspec/learnmd)** | `.learn.md` | Instructional content (lessons, examples, summaries) |
 | **[QuizMD](https://github.com/learnspec/quizmd)** | `.quiz.md` | Assessments and quizzes |
 | **[FlashMD](https://github.com/learnspec/flashmd)** | `.flash.md` | Flashcards for spaced repetition |
+| **[NuggetMD](https://github.com/learnspec/nuggetmd)** | `.nugget.md` | Micro-learning concepts for spaced repetition |
 | **[TrackMD](https://github.com/learnspec/trackmd)** | `.track.md` | Sequenced learning paths |
 | **[DiagramMD](https://github.com/learnspec/diagrammd)** | `.diagram.md` | Diagram syntax (Mermaid, TikZ, Graphviz, abc, chess, vega-lite…) |
 | **[MediaMD](https://github.com/learnspec/mediamd)** | `.media.md` | Sourced, licence-checked media catalogues |
 | **[GlossaryMD](https://github.com/learnspec/glossarymd)** | `.glossary.md` | Definitions and key terms |
+| **[CurriculumMD](https://github.com/learnspec/curriculummd)** | `.curriculum.md` | Reference frameworks and syllabi |
 | **[BadgeMD](https://github.com/learnspec/badgemd)** | `.badge.md` | Micro-credentials (Open Badges 3.0 compatible) |
 | **[CertMD](https://github.com/learnspec/certmd)** | `.cert.md` | Macro-credentials for completed tracks |
 
