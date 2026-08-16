@@ -10,6 +10,7 @@ LearnSpec is a suite of complementary, Markdown-based formats that together cove
 |---|---|---|
 | **[LearnMD](https://github.com/learnspec/learnmd)** | `.learn.md` | Instructional content (lessons, examples, summaries) |
 | **[QuizMD](https://github.com/learnspec/quizmd)** | `.quiz.md` | Assessments and quizzes |
+| **[ExerciseMD](https://github.com/learnspec/exercisemd)** | `.exercise.md` | Exercises with model solutions and grading rubrics |
 | **[FlashMD](https://github.com/learnspec/flashmd)** | `.flash.md` | Flashcards for spaced repetition |
 | **[NuggetMD](https://github.com/learnspec/nuggetmd)** | `.nugget.md` | Micro-learning concepts for spaced repetition |
 | **[TrackMD](https://github.com/learnspec/trackmd)** | `.track.md` | Sequenced learning paths |
