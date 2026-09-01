@@ -10,7 +10,6 @@ LearnSpec is a suite of complementary, Markdown-based formats that together cove
 |---|---|---|
 | **[LearnMD](https://github.com/learnspec/learnmd)** | `.learn.md` | Instructional content (lessons, examples, summaries) |
 | **[QuizMD](https://github.com/learnspec/quizmd)** | `.quiz.md` | Assessments and quizzes |
-| **[ExerciseMD](https://github.com/learnspec/exercisemd)** | `.exercise.md` | Exercises with model solutions and grading rubrics |
 | **[FlashMD](https://github.com/learnspec/flashmd)** | `.flash.md` | Flashcards for spaced repetition |
 | **[NuggetMD](https://github.com/learnspec/nuggetmd)** | `.nugget.md` | Micro-learning concepts for spaced repetition |
 | **[ExerciseMD](https://github.com/learnspec/exercisemd)** | `.exercise.md` | Exercises with solutions and grading rubrics |
@@ -22,6 +21,7 @@ LearnSpec is a suite of complementary, Markdown-based formats that together cove
 | **[CurriculumMD](https://github.com/learnspec/curriculummd)** | `.curriculum.md` | Reference frameworks and syllabi |
 | **[BadgeMD](https://github.com/learnspec/badgemd)** | `.badge.md` | Micro-credentials (Open Badges 3.0 compatible) |
 | **[CertMD](https://github.com/learnspec/certmd)** | `.cert.md` | Macro-credentials for completed tracks |
+| **[ListenMD](https://github.com/learnspec/listenmd)** | `.listen.md` | Speech-only audio episode scripts (rendition format) |
 
 ## Design Principles
 
