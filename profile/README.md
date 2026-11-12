@@ -49,8 +49,12 @@ A learning corpus can be assembled, versioned, and published as a folder of plai
 
 ## MCP Integration
 
-LearnSpec formats are natively supported by the [Neuroneo MCP server](https://neuroneo.md), giving AI assistants tools to parse, validate, generate, and publish content across the suite.
+LearnSpec formats are natively supported by the [memoneo MCP server](https://memoneo.app), giving AI assistants tools to parse, validate, generate, and publish content across the suite.
+
+## About
+
+LearnSpec was initiated by **[memoneo](https://memoneo.app)**, which maintains the specifications, the reference tooling, and [learnspec.org](https://learnspec.org). The formats are released under the MIT licence and remain independent of any single platform.
 
 ## Contributing
 
-LearnSpec is open and community-driven. Each format has its own repository — open an issue or pull request in the relevant one, or start a discussion in [learnspec.org](https://github.com/learnspec/learnspec.org) for cross-cutting topics.
+LearnSpec is open to contributions and maintained by memoneo. Each format has its own repository — open an issue or pull request in the relevant one, or start a discussion in [learnspec.org](https://github.com/learnspec/learnspec.org) for cross-cutting topics.
